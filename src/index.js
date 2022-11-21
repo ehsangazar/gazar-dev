@@ -8,9 +8,9 @@ import ReactDOM from "react-dom/client";
 
 const themeConfig = {
   fonts: {
-    body: "Vazirmatn, system-ui, sans-serif",
-    heading: "Vazirmatn, serif",
-    mono: "Vazirmatn, monospace",
+    body: "Ubuntu, system-ui, sans-serif",
+    heading: "Ubuntu, serif",
+    mono: "Ubuntu, monospace",
   },
   fontSizes: {
     xs: "0.75rem",

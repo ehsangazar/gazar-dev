@@ -9,8 +9,8 @@
   font-size: inherit;
   box-shadow: none;
   box-sizing: border-box;
-  direction: rtl;
-  font-family: 'Vazirmatn', sans-serif;
+  direction: ltr;
+  font-family: 'Ubuntu', sans-serif;
 }
 html {
   scroll-behavior: smooth;

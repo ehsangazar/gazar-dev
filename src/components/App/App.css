@@ -15,6 +15,9 @@
 .direction-ltr {
     direction: ltr;
 }
+.direction-rtl {
+    direction: rtl;
+}
 .button-link:hover {
     text-decoration: none !important;
 }
